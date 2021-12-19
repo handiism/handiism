@@ -3,6 +3,6 @@
 
 - 🔭 I’m currently working as **Android Development Staff in Information Technology Club UPN Veteran Yogyakarta**
 
-- 🌱 I’m currently learning **Go Languange, Laravel framework, and Express Framework**
+- 🌱 I’m currently learning **Go Languange, Laravel Framework, and Express Framework**
 
 - 👯 I’m looking to collaborate on **Backend development using Go, PHP, or Node.Js**
